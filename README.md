@@ -47,4 +47,3 @@ During the initial setup, I encountered some issues related to Java 11 compatibi
 
 - Add comprehensive unit tests for LogProcessorService and other components
 - Improve error handling for malformed log entries
-- Add integration tests
